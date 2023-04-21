@@ -1,2 +1,7 @@
 R scripts used for QC and burden analysis
-. 
+. BurdenX.R = perform burden analysis of CNVs in x chromosome (males only)
+. Burden_EAS.R = perform burden analysis of CNVs in EAS samples
+. Burden_EUR.R = perform burden analysis of CNVs in EUR samples
+. CNVQC.R = perform CNV QC
+. Forest_Freq.R = perform sensitivity analysis by stratifying burden analysis by frequency bins
+. Forest_Freq_EAS.R = perform sentitivity analysis by stratifying burden analysis of EAS samples by frequency bins
